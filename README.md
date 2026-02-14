@@ -1,6 +1,6 @@
-# ✈️ Aircraft Engine Predictive Maintenance Analysis (CMAPSS)
+ Aircraft Engine Predictive Maintenance Analysis (CMAPSS)
 
-## 📌 Project Overview
+ Project Overview
 This project is an analysis of the CMAPSS aircraft engine dataset to understand
 engine degradation and support predictive maintenance.
 
@@ -15,7 +15,7 @@ with a case study on aerospace predictive maintenance.
 
 ---
 
-## 🎯 Objectives
+ Objectives
 - Clean and prepare the CMAPSS dataset
 - Analyze aircraft engine sensors
 - Understand engine degradation patterns
@@ -23,7 +23,7 @@ with a case study on aerospace predictive maintenance.
 
 ---
 
-## 🧠 Tools & Technologies
+ Tools & Technologies
 - Python
 - Pandas & NumPy
 - Scikit-learn (MinMaxScaler preprocessing)
@@ -31,7 +31,7 @@ with a case study on aerospace predictive maintenance.
 
 ---
 
-## 📊 Dataset Description
+ Dataset Description
 The CMAPSS dataset contains aircraft engine performance simulations:
 - Multiple engine units
 - Multi-sensor time-series data
@@ -41,7 +41,7 @@ This dataset is often used for predictive maintenance research.
 
 ---
 
-## ⚙️ Workflow
+ Workflow
 1. Data loading & cleaning  
 2. Handling missing columns  
 3. Sensor normalization  
@@ -51,9 +51,9 @@ This dataset is often used for predictive maintenance research.
 
 ---
 
-## 📈 Key Insights
+ Key Insights
 - Certain sensors show significant degradation patterns
 - Data preprocessing is important before RUL modeling
 - The dataset is suitable for predictive
 
-Translated with DeepL.com (free version)
+
